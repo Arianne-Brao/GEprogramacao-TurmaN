@@ -6,7 +6,7 @@ i {color: blue; font-size: 18px;}
 header, footer{background-color: #499CBA; color: #ceeffc; text-align: center; font-size: 20px;}
 main {background-color: #8ddefc;}
 nav li {text-transform: uppercase; list-style: none; display: inline;}
-nav a {color:#ceeffc ;}
+nav a {color:#ceeffc; text-decoration: none;}
 header {position: fixed; top: 0px; left:0px}
 footer {position: fixed;bottom: 0px; left: 0px;}
 .primeirasemana {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px;}
