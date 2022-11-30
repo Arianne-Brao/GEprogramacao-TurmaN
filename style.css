@@ -18,3 +18,4 @@ footer {position: fixed;bottom: 0px; left: 0px;right: 0px; text-align: center;}
 h1,h2,h3{ margin: 10px; padding: 10px; font-size: 1.5em; font-weight: bold;}
 p {margin: 4px; padding: 4px;}
 .profissoes {border: black solid 2px; list-style: none; border-style: groove;}
+.profissoes__imagem:hover{ }
