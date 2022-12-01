@@ -1,4 +1,4 @@
-header, footer{background-color: #499CBA; color: #ceeffc; font-size: 20px; height: 80px;}
+header, footer {background-color: #499CBA; color: #ceeffc; font-size: 20px; height: 80px;}
 header {position: fixed; top: 0px; left:0px; right: 0px; display: inline; text-align: left;}
 footer {position: fixed;bottom: 0px; left: 0px;right: 0px; text-align: center;}
 nav {display: inline;}
