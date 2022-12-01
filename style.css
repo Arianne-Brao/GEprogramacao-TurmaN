@@ -1,5 +1,5 @@
 header, footer{background-color: #499CBA; color: #ceeffc; font-size: 20px; height: 80px;}
-header {position: fixed; top: 0px; left:0px; right: 0px; display: inline; text-align: right;}
+header {position: fixed; top: 0px; left:0px; right: 0px; display: inline; text-align: left;}
 footer {position: fixed;bottom: 0px; left: 0px;right: 0px; text-align: center;}
 nav {display: inline;}
 nav li {text-transform: uppercase; list-style: none; display: inline; margin-left: 10px; text-align: right;}
@@ -7,7 +7,7 @@ nav a {color:#ceeffc; text-decoration: none; text-align: right;}
 nav a:hover{text-decoration: underline; font-size: 28px; transition: 1s;}
 body {background-color: #3efaf7; text-align: justify; font-size: 18px; position: absolute; top: 90px; bottom: 90px; font-family: 'Itim', cursive;}
 main {background-color: #8ddefc; margin-bottom: 100px;}
-h1 {text-align: center;background-color:#2FBDBA; color: #17313B;} 
+h1 {text-align: center; background-color:#2FBDBA; color: #17313B;} 
 h3,h2 {text-align: justify; color: #1f7a79;}
 h1,h2,h3{ margin: 10px; padding: 10px; font-size: 1.5em; font-weight: bold;}
 b{color: blue; font-size: 18px; font-weight: bold}
