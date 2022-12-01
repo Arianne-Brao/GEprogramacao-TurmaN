@@ -9,8 +9,8 @@ body {background-color: #3efaf7; text-align: justify; font-size: 18px; position:
 main {background-color: #8ddefc; margin-bottom: 100px;}
 h1 {text-align: center; background-color:#2FBDBA; color: #17313B;} 
 h3,h2 {text-align: justify; color: #1f7a79;}
-h1,h2,h3{ margin: 10px; padding: 10px; font-size: 1.5em; font-weight: bold;}
-b{color: blue; font-size: 18px; font-weight: bold}
+h1,h2,h3 { margin: 10px; padding: 10px; font-size: 1.5em; font-weight: bold;}
+b {color: blue; font-size: 18px; font-weight: bold}
 i {color: blue; font-size: 18px; font-style: italic;}
 p {margin: 4px; padding: 4px;}
 .primeirasemana {text-align: justify; font-size: 18px; border: black solid 2px; padding: 10px; margin: 10px; background-color: rgb(129, 255, 255);border-style: groove}
